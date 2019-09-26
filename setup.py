@@ -41,12 +41,6 @@ def main():
                 "CODE_OF_CONDUCT.md"
             ]
         },
-        setup_requires=[
-            'numpy',
-            'bx-python',
-            'six',
-            'cython'
-        ],
         install_requires=[
             'numpy',
             'six',
